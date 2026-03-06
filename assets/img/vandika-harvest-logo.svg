@@ -1,0 +1,36 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='960' height='540' viewBox='0 0 960 540' role='img' aria-labelledby='title desc'>
+  <title id='title'>Vandika Harvest Logo</title>
+  <desc id='desc'>A warm-toned badge logo for Vandika Harvest</desc>
+  <defs>
+    <linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0%' stop-color='#fff7ea'/>
+      <stop offset='100%' stop-color='#ffe7c8'/>
+    </linearGradient>
+    <linearGradient id='seal' x1='0' y1='0' x2='0' y2='1'>
+      <stop offset='0%' stop-color='#cf7a2e'/>
+      <stop offset='100%' stop-color='#9f4b16'/>
+    </linearGradient>
+  </defs>
+
+  <rect width='960' height='540' rx='28' fill='url(#bg)'/>
+
+  <g transform='translate(480 145)'>
+    <circle r='78' fill='url(#seal)'/>
+    <path d='M-9 -42c22 26 24 58 0 86-22-26-24-58 0-86z' fill='#fff4df'/>
+    <path d='M17 -24c15 18 16 40 0 59-15-18-16-40 0-59z' fill='#ffe2ba'/>
+    <path d='M-36 -19c15 18 16 40 0 59-15-18-16-40 0-59z' fill='#ffe2ba'/>
+  </g>
+
+  <text x='480' y='287' text-anchor='middle' font-size='64' fill='#7a3409' font-family='Georgia, Times New Roman, serif' font-weight='700'>
+    Vandika Harvest
+  </text>
+  <text x='480' y='340' text-anchor='middle' font-size='30' fill='#a55e2b' font-family='Arial, sans-serif' letter-spacing='4'>
+    PURE SPICE CRAFT
+  </text>
+
+  <g transform='translate(480 390)' fill='#b56a2f'>
+    <circle cx='-130' cy='0' r='6'/>
+    <circle cx='130' cy='0' r='6'/>
+    <rect x='-118' y='-2' width='236' height='4' rx='2'/>
+  </g>
+</svg>
