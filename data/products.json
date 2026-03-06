@@ -1,0 +1,138 @@
+[
+  {
+    "id": "haldi-classic-100",
+    "name": "Vandika Harvest Classic Turmeric Powder 100g",
+    "category": "Turmeric (Haldi)",
+    "price": 129,
+    "currency": "INR",
+    "shortDescription": "Golden turmeric powder rich in natural curcumin.",
+    "longDescription": "Crafted from selected turmeric rhizomes, this daily-use haldi powder delivers warm color and earthy flavor.",
+    "specs": {
+      "Weight": "100g",
+      "Form": "Fine Powder",
+      "Origin": "Sangli, Maharashtra",
+      "Shelf Life": "9 months"
+    },
+    "images": ["/assets/img/turmeric-classic.svg"],
+    "featured": true
+  },
+  {
+    "id": "haldi-premium-250",
+    "name": "Vandika Harvest Premium Turmeric 250g",
+    "category": "Turmeric (Haldi)",
+    "price": 279,
+    "currency": "INR",
+    "shortDescription": "Premium-grade haldi with bold aroma.",
+    "longDescription": "A high-quality turmeric selection for households that want stronger aroma and color consistency.",
+    "specs": {
+      "Weight": "250g",
+      "Curcumin": "7%+",
+      "Packaging": "Airtight Pouch",
+      "Shelf Life": "12 months"
+    },
+    "images": ["/assets/img/turmeric-premium.svg"],
+    "featured": true
+  },
+  {
+    "id": "haldi-fiery-100",
+    "name": "Fiery Haldi Blend 100g",
+    "category": "Turmeric (Haldi)",
+    "price": 149,
+    "currency": "INR",
+    "shortDescription": "Bold haldi blend for richer curries.",
+    "longDescription": "A robust turmeric blend designed for recipes that need stronger depth and color.",
+    "specs": {
+      "Weight": "100g",
+      "Blend Type": "Bold",
+      "Processing": "Low Temperature Milling",
+      "Shelf Life": "9 months"
+    },
+    "images": ["/assets/img/chilli-fiery.svg"],
+    "featured": true
+  },
+  {
+    "id": "haldi-smoky-200",
+    "name": "Smoky Haldi Blend 200g",
+    "category": "Turmeric (Haldi)",
+    "price": 249,
+    "currency": "INR",
+    "shortDescription": "Warm aromatic haldi blend for daily recipes.",
+    "longDescription": "Balanced turmeric blend with a deeper aroma profile for curries, soups, and marinades.",
+    "specs": {
+      "Weight": "200g",
+      "Blend Type": "Aromatic",
+      "Moisture": "< 8%",
+      "Shelf Life": "10 months"
+    },
+    "images": ["/assets/img/chilli-byadgi.svg"],
+    "featured": false
+  },
+  {
+    "id": "classic-haldi-blend-100",
+    "name": "Classic Haldi Blend 100g",
+    "category": "Turmeric (Haldi)",
+    "price": 189,
+    "currency": "INR",
+    "shortDescription": "Balanced haldi blend for everyday cooking.",
+    "longDescription": "A versatile turmeric blend with consistent flavor, ideal for regular home use.",
+    "specs": {
+      "Weight": "100g",
+      "Use": "Daily Cooking",
+      "Packaging": "Glass Jar",
+      "Shelf Life": "9 months"
+    },
+    "images": ["/assets/img/garam-classic.svg"],
+    "featured": true
+  },
+  {
+    "id": "bold-haldi-blend-200",
+    "name": "Bold Haldi Blend 200g",
+    "category": "Turmeric (Haldi)",
+    "price": 349,
+    "currency": "INR",
+    "shortDescription": "High-intensity haldi blend for robust gravies.",
+    "longDescription": "Developed for stronger flavor and color in heavier dishes and batch cooking.",
+    "specs": {
+      "Weight": "200g",
+      "Intensity": "High",
+      "Roast": "Triple Roast",
+      "Shelf Life": "10 months"
+    },
+    "images": ["/assets/img/garam-bold.svg"],
+    "featured": false
+  },
+  {
+    "id": "haldi-kadha-120",
+    "name": "Smoky Haldi Kadha 120g",
+    "category": "Turmeric (Haldi)",
+    "price": 249,
+    "currency": "INR",
+    "shortDescription": "Immunity-focused haldi kadha blend.",
+    "longDescription": "A warming turmeric blend designed for traditional kadha preparation.",
+    "specs": {
+      "Weight": "120g",
+      "Use": "Kadha",
+      "Sweetener": "None",
+      "Shelf Life": "8 months"
+    },
+    "images": ["/assets/img/kadha.svg"],
+    "featured": false
+  },
+  {
+    "id": "haldi-latte-mix",
+    "name": "Turmeric Latte Mix 150g",
+    "category": "Turmeric (Haldi)",
+    "price": 299,
+    "currency": "INR",
+    "shortDescription": "Turmeric, ginger, and cinnamon latte mix.",
+    "longDescription": "Instant golden milk blend crafted for convenient daily haldi wellness drinks.",
+    "specs": {
+      "Weight": "150g",
+      "Sweetener": "Palm Jaggery",
+      "Use": "Lattes",
+      "Shelf Life": "8 months"
+    },
+    "images": ["/assets/img/haldi-latte.svg"],
+    "featured": false
+  }
+]
