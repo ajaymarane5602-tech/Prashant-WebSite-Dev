@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vandika Harvest</title>
+    <meta
+      name="description"
+      content="Browse Vandika Harvest haldi and kitchen essentials catalog by category, search products, and sort by price or name."
+    />
+    <meta property="og:title" content="Vandika Harvest" />
+    <meta
+      property="og:description"
+      content="Explore premium haldi and pantry essentials from Vandika Harvest."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="/assets/img/turmeric-classic.svg" />
+    <link rel="canonical" href="/products.html" />
+    <link rel="stylesheet" href="/assets/css/styles.css" />
+  </head>
+  <body data-page="products">
+    <header id="site-header"></header>
+    <main id="main-content">
+      <section class="section products-editorial">
+        <div class="container">
+          <div class="filters editorial-filters reveal-up">
+            <label class="filter-field">
+              <input type="search" id="search-input" placeholder="Type haldi, turmeric, essentials..." />
+            </label>
+          </div>
+          <div class="products-meta reveal-up">
+            <p class="products-count" id="product-result-count" aria-live="polite"></p>
+          </div>
+          <div class="product-grid" id="product-grid"></div>
+          <p id="product-empty-state" class="empty" hidden>No products matched your filters.</p>
+        </div>
+      </section>
+    </main>
+    <footer id="site-footer"></footer>
+
+    <script type="module" src="/js/components.js"></script>
+    <script type="module" src="/js/pages/products.js"></script>
+  </body>
+</html>
